@@ -14,7 +14,7 @@ Of course the PCB board and components must not come in contact with any metal s
 The circuit may benefit from a Zobel network, that is a 680 pF capacitor and a 150 ohms resistor in series between pin 2 and 3 on the output or the input connector. It should avoid high frequency oscillation in a long cable.
 
 Schematic diagram: 
-
+https://raw.githubusercontent.com/Supermagnum/HighZ-stereo/refs/heads/main/Highz-stereo.pdf
 
 
 
@@ -27,10 +27,6 @@ PCB board dimensions:
 Piezoelectric disk, red wire for positive polarity.
 Black for negative: https://github.com/Supermagnum/double-gain/blob/main/Piezo-element-6.jpg
 
-
-
-
-
 They usually have a 3 pin XLR plug. Those are wired up like this: https://github.com/Supermagnum/piezo-balanced/blob/main/XLR%2BConnector%2BPinout%2BDiagram%2BRear%2BPin%2B2%2BHot%2Bv2%2Bgreen__01.jpg
 
 NOTE:  
@@ -40,8 +36,6 @@ Suggested cable: Digi-Key Part Number: 30-00910-5-ND
 
 Based on:
 http://www.richardmudhar.com/blog/piezo-contact-microphone-hi-z-amplifier-low-noise-version/
-
-It works nicely in LTspice, a program for simulation of circuits.
 
 Why: The problem with piezo guitar pickups and piezoelectric crystals is that they are not well matched to typical audio inputs. By their nature they can generate a lot of signal, but they cannot drive a 50 kilohm typical line input. The pickup needs to work into a much higher impedance, typically 1 megohm or so.
 
