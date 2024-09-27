@@ -1,0 +1,23 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,8.0.5-8.0.5-0~ubuntu24.04.1*%
+%TF.CreationDate,2024-09-28T01:01:33+02:00*%
+%TF.ProjectId,Highz-stereo,48696768-7a2d-4737-9465-72656f2e6b69,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Profile,NP*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 8.0.5-8.0.5-0~ubuntu24.04.1) date 2024-09-28 01:01:33*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,Profile*%
+%ADD10C,0.100000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+X37500000Y-32500000D02*
+X100000000Y-32500000D01*
+X100000000Y-130000000D01*
+X37500000Y-130000000D01*
+X37500000Y-32500000D01*
+M02*
