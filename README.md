@@ -16,10 +16,12 @@ The circuit may benefit from a Zobel network, that is a 680 pF capacitor and a 1
 Schematic diagram: 
 https://raw.githubusercontent.com/Supermagnum/HighZ-stereo/refs/heads/main/Highz-stereo.pdf
 
+Component side:
 
+https://github.com/Supermagnum/HighZ-stereo/blob/main/components-side.jpg
 
 Reverse side:
-
+https://github.com/Supermagnum/HighZ-stereo/blob/main/back-side.jpg
 
 PCB board dimensions: 62.5X97.5 mm
 
