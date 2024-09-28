@@ -34,7 +34,7 @@ They usually have a 3 pin XLR plug. Those are wired up like this: https://github
 NOTE:  
 The XLR 3 pin plug has a solder lug for the shield for a reason.
 It is my opinion that a shielded cable with 3 conductors inside is the best.
-Suggested cable: Digi-Key Part Number: 30-00910-5-ND
+Suggested cable: Digi-Key Part Number:3242SL005-ND
 
 Based on:
 http://www.richardmudhar.com/blog/piezo-contact-microphone-hi-z-amplifier-low-noise-version/
