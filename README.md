@@ -1,4 +1,4 @@
-A small PCB that uses a  OPA4134 op amp to amplify a signal from piezolectric crystals.
+A small PCB that uses a  OPA1679 op amp to amplify a signal from piezolectric crystals.
 
 
 
