@@ -5,7 +5,7 @@ A small PCB that uses a  OPA1679 op amp to amplify a signal from piezolectric cr
 It has balanced output,input and should run on +48 phantom power.
 Shielded cable must be used for connection to the piezo crystals.
 Please use 0,5 W metal film resistors with 1% tolerance or better and audio quality capacitors.
-Mica capacitators is good.
+Mylar or polyester capacitators is good, electrolytes if needed.
 
 It is important that the circuit board is mounted inside a metal box, and Ø2mm conducting metal standoffs are used.
 The corner pads of the PCB board is reserved for that.
