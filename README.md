@@ -21,7 +21,7 @@ https://raw.githubusercontent.com/Supermagnum/HighZ-stereo/refs/heads/main/Highz
 Reverse side:
 
 
-PCB board dimensions:
+PCB board dimensions: 62.5X97.5 mm
 
 
 Piezoelectric disk, red wire for positive polarity.
