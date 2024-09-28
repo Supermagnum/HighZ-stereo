@@ -69,7 +69,7 @@ Made with: http://www.kicad.org/
 
 KiCad uses an integrated environment for all of the stages of the design process: Schematic capture, PCB layout, Gerber file generation/visualization, and library editing.
 
-KiCad is a cross-platform program, and of curse free!
+KiCad is a cross-platform program, and free!
 
 
 
