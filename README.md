@@ -25,6 +25,8 @@ https://github.com/Supermagnum/HighZ-stereo/blob/main/back-side.jpg
 
 PCB board dimensions: 62.5X97.5 mm
 
+BOM files:
+https://github.com/Supermagnum/HighZ-stereo/tree/main/BOM-files
 
 Piezoelectric disk, red wire for positive polarity.
 Black for negative: https://github.com/Supermagnum/double-gain/blob/main/Piezo-element-6.jpg
