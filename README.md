@@ -51,20 +51,17 @@ This circuit board solves that, and amplifies the signal. How many dB it amplifi
 
 It's fairly easy and straight forward to solder the components to the circuit board, a nice pointy soldering iron, solder, a magnifying glass, and a ohm or multimeter is all that is needed. Of course one needs a suitable metal box, and the circuit boards components must not come in contact with the metal box. That will cause short circuit, so it's best mounted on stand offs. Also, use the magnifying glass to check that no one of the soldering pads has been bridged.
 
-It can be used for a reverb plate, listening to the insides of a engine,recording the sound of vibrating things. You will need two piezoelectric disks for that, mounted in a metal box. Non electric conductive super glue is useable for that. Just glue them to a flat surface. The piezoelectric disks should be electrically insulated from the metal box.
-
-Mechanics may even use it to discover trouble with bearings or other mechanisms not easily opened, but it will need a dedicated +48 volts phantom power supply with headphone jack for that specific usage.
+It can be used for two reverb plates, listening to the insides of a engine,recording the sound of vibrating things. You will need 4 piezoelectric disks for that, mounted in two metal boxes Non electric conductive super glue is useable for that. Just glue them to a flat surface. The piezoelectric disks should be electrically insulated from the metal box.
 
 Of course one can use a recorder like a tascam dr40x, as long as it can supply +48 volt phantom power, and has a headphone jack for monitoring.
 
 A good set of headphones or ear protection with built in speakers will keep out unwanted sounds or noise.
 
 Should also work nice with hydrophones. PZT-5H tubes is best for that. You want more gain, 35 or 40 dB for that. 
-In case of a hydrophone it's possible to have the hydrophone attached with a long cable and the amplifier/buffer circuit close to the piezoelectric elements. 
-It's of course extremely important that the circuit board and connections are absolutely waterproof. 
-A epoxy filled container or inside the hydrophone bulb is OK. Commercial ones uses kerosene oil, so olive oil or sunflower oil is a great alternative as it will not pollute the environment if any leaks occurs.
+In case of dual hydrophones it's possible to have the hydrophones attached with two long cables. 
 
-Some interesting ideas can be found in: https://github.com/Supermagnum/piezo-balanced/blob/main/Barlow-et-al-2008-HydrophoneConstruction_TM-417.pdf Note: Ecopoxy Flowcast does not need any vacuum, just a mold and a way to hold the piezoelectric tubes centered. It's also safer to work with. Of course two piezoelectric disks inside something waterproof that can handle the water pressure is also useable.
+Some interesting ideas can be found in: https://github.com/Supermagnum/piezo-balanced/blob/main/Barlow-et-al-2008-HydrophoneConstruction_TM-417.pdf Note: Ecopoxy Flowcast does not need any vacuum, just a mold and a way to hold the piezoelectric tubes centered. It's also safer to work with.
+
 Some methods of mounting a piezoelectric disk can be found here: https://locusonus.org/wiki/index.php?page=Hydrophone.en
 
 Made with: http://www.kicad.org/
