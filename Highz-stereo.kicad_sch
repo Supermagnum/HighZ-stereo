@@ -4433,7 +4433,7 @@
 		)
 		(uuid "f999adfe-b963-45e5-a953-cc8c4b72dbf9")
 	)
-	(text "Suitable 2 gang potmeter P165M200PNN20MN103"
+	(text "Suitable 4 gang potmeter PTD904-1015K-B103 if you want variable gain."
 		(exclude_from_sim no)
 		(at 89.916 133.858 0)
 		(effects
